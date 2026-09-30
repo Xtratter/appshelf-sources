@@ -1,0 +1,15 @@
+{
+  "format": "AppShelf-sources",
+  "version": 1,
+  "apps": {
+    "io.github.xtratter.appshelf": [
+      { "url": "https://github.com/Xtratter/appshelf", "label": "GitHub" }
+    ],
+    "io.github.xtratter.cathunt": [
+      { "url": "https://github.com/Xtratter/cat-hunt", "label": "GitHub" }
+    ],
+    "io.github.xtratter.droidtop": [
+      { "url": "https://github.com/Xtratter/droidtop", "label": "GitHub" }
+    ]
+  }
+}
