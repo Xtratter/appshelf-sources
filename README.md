@@ -25,13 +25,13 @@ are shown after them.
 ```
 
 - The key is the app's package name (AppShelf shows it in the app card and can copy it).
-- `url` — any `https://` link: a GitHub / GitLab / Codeberg repository (AppShelf opens its latest release and can add it to Obtainium),
+- `url` — any `https://` link: a GitHub repository (AppShelf downloads and installs the APK from its latest release, so the link stays valid for every new version), a GitLab / Codeberg repository (opened, or added to Obtainium),
   a Telegram channel, a forum thread, a site or a direct `.apk` link.
 - `label` is optional — without it AppShelf names the link by its site.
 
 ## Adding links
 
-In AppShelf add links in the app cards, then **Save & export → Links for the catalog** gives you a ready `sources.json`
+In AppShelf add links in the app cards, then **Save & restore → Save → Links for the catalog** gives you a ready `sources.json`
 with all your links — merge it here. Pull requests are welcome.
 
 ## Use your own catalog
