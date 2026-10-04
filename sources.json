@@ -10,6 +10,9 @@
     ],
     "io.github.xtratter.droidtop": [
       { "url": "https://github.com/Xtratter/droidtop", "label": "GitHub" }
+    ],
+    "io.github.xtratter.yggtunnel": [
+      { "url": "https://github.com/Xtratter/yggtunnel", "label": "GitHub" }
     ]
   }
 }
